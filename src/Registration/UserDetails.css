@@ -1,0 +1,27 @@
+/* src/components/UserDetails.css */
+.user-details-container {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .user-details-card {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-details-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .user-details-content {
+    margin-top: 20px;
+  }
+  
+  .user-not-found {
+    color: #ff0000;
+  }
+  
